@@ -50,6 +50,16 @@ A classe [Aluno] é uma das classes filhas que herdam os atributos de [Pessoa], 
     * [setCodigo] - Metodo que insere valor em [self._codigo], herdado de [Pessoa]
 
 A classe [Professor] é uma das classes filhas que herdam os atributos de [Pessoa], possui [Codigo]
+
+
+### Equipe
+|                                         | Integrante|
+| ------                                  | ------    |
+| Nome                                    | Lucas Soares Leite |
+| Matrícula                               | 91604374 |
+| Curso                                   | Sistemas de informação |
+| Principais responsabilidades no projeto | Realizar o desenvolvimento do projeto, incluindo UML, testes, build, documentação e vídeo|
+
 ### Video
 
         Em breve!
