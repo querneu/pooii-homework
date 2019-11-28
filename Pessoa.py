@@ -1,9 +1,8 @@
 class Pessoa:
-    def __init__(self, nome, sobrenome):
-        super().__init__
-        self._nome = nome
-        self._sobrenome = sobrenome
-    
+    def __init__(self):
+        super().__init__()
+        pass 
+
     def getNome(self):
         return self._nome
     def setNome(self,nome):
