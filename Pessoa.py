@@ -1,5 +1,6 @@
 class Pessoa:
     def __init__(self, nome, sobrenome):
+        super().__init__
         self._nome = nome
         self._sobrenome = sobrenome
     
