@@ -17,7 +17,7 @@ def test():
     aluno.setMatricula(123)
     print("Nome da aluno:" + aluno.getNome())
     print("Sobrenome da aluno:" + aluno.getSobrenome())
-    print("Matricula do aluno:" + aluno.getMatricula())
+    print("Matricula do aluno:" + str(aluno.getMatricula()))
 
 
     professor.setNome("Professor")
@@ -25,7 +25,7 @@ def test():
     professor.setCodigo(321)
     print("Nome da professor:" + professor.getNome())
     print("Sobrenome da professor:" + professor.getSobrenome())
-    print("Código do professor:" + professor.getCodigo())
+    print("Código do professor:" +str(professor.getCodigo()))
 
-if __name__ == 'test':
-    test()
+
+test()
