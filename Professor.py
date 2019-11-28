@@ -1,11 +1,7 @@
-from .Pessoa import Pessoa
-
-class Professor:
-    def __init__(self, Pessoa, codigo):
-        self._nome = Pessoa._nome
-        self._sobrenome = Pessoa._sobrenome
-        self._codigo = codigo
-    
+from Pessoa import Pessoa
+class Professor(Pessoa):
+    def __init__(self):
+        pass
     def getCodigo(self):
         return self._codigo
     
