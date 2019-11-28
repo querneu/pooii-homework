@@ -1,5 +1,7 @@
 # Trabalho de Programação Orientada a Objetos 2
-### Status: [![Build Status](https://travis-ci.com/querneu/pooii-homework.svg?branch=master)](https://travis-ci.com/querneu/pooii-homework)
+| Status|
+| ------|
+ |[![Build Status](https://travis-ci.com/querneu/pooii-homework.svg?branch=master)](https://travis-ci.com/querneu/pooii-homework)|
 
 
 # Diagrama UML
