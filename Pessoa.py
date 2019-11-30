@@ -1,13 +1,13 @@
-# Criação de Classe pai Pessoa com atributos nome e sobrenome
+# Criação de Classe pai Pessoa com atributos nome e sobrenome.
 class Pessoa:
 
-    # Metodo construtor vazio para criação de instancias vazias
-    def init(self):
+    # Metodo construtor vazio para criação de instancias vazias.
+    
     def __init__(self):
         super().__init__()
         pass 
 
-    # GetNome para retornar o valor de nome
+    # GetNome para retornar o valor de nome.
     def getNome(self):
         return self._nome
 
