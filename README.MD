@@ -62,6 +62,15 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 | Curso                                   | Sistemas de informação |
 | Principais responsabilidades no projeto | Realizar o desenvolvimento do projeto, incluindo UML, testes, build, documentação e vídeo|
 
+
+|                                         | Integrante|
+| ------                                  | ------    |
+| Nome                                    | Richarde Souza Caetano |
+| Matrícula                               | 31605903 |
+| Curso                                   | Análise e Desenvolvimento de Sistemas |
+| Principais responsabilidades no projeto | Realizar comentários das classes e correções de build |
+
+
 ### Video
 
         Em breve!
