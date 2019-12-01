@@ -81,7 +81,7 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 
 ### Video
 
-    [![Watch the video](https://img.youtube.com/vi/MwGLcRVEsIA/maxresdefault.jpg)](https://youtu.be/MwGLcRVEsIA)
+[![Watch the video](https://img.youtube.com/vi/MwGLcRVEsIA/maxresdefault.jpg)](https://youtu.be/MwGLcRVEsIA)
 
 **Obrigado pelo Semestre!**
 
