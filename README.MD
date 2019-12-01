@@ -70,6 +70,7 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 | Curso                                   | Análise e Desenvolvimento de Sistemas |
 | Principais responsabilidades no projeto | Realizar comentários das classes e correções de build |
 
+
 |                                         | Integrante|
 | ------                                  | ------    |
 | Nome                                    | Robson Luiz Correa Lima |
@@ -80,7 +81,7 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 
 ### Video
 
-        Em breve!
+    [![Watch the video](https://img.youtube.com/vi/MwGLcRVEsIA/maxresdefault.jpg)](https://youtu.be/MwGLcRVEsIA)
 
 **Obrigado pelo Semestre!**
 
