@@ -60,7 +60,7 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 | Nome                                    | Lucas Soares Leite |
 | Matrícula                               | 91604374 |
 | Curso                                   | Sistemas de informação |
-| Principais responsabilidades no projeto | Realizar o desenvolvimento do projeto, incluindo UML, testes, build, documentação e vídeo|
+| Principais responsabilidades no projeto | Realizar o desenvolvimento do projeto, incluindo UML, testes e build |
 
 
 |                                         | Integrante|
@@ -69,6 +69,13 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 | Matrícula                               | 31605903 |
 | Curso                                   | Análise e Desenvolvimento de Sistemas |
 | Principais responsabilidades no projeto | Realizar comentários das classes e correções de build |
+
+|                                         | Integrante|
+| ------                                  | ------    |
+| Nome                                    | Robson Luiz Correa Lima |
+| Matrícula                               | 91604607 |
+| Curso                                   | Sistemas de informação |
+| Principais responsabilidades no projeto | Realizar produção e edição do vídeo explicativo |
 
 
 ### Video
